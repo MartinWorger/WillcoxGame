@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WillcoxGame", "WillcoxGame\WillcoxGame.csproj", "{4BD98862-F28F-42F9-9E48-79CAA1D270A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WillcoxGameTests", "WillcoxGameTests\WillcoxGameTests.csproj", "{6278D0F6-CCE5-4DE6-AA7C-8028C95A942E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD98862-F28F-42F9-9E48-79CAA1D270A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD98862-F28F-42F9-9E48-79CAA1D270A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD98862-F28F-42F9-9E48-79CAA1D270A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD98862-F28F-42F9-9E48-79CAA1D270A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6278D0F6-CCE5-4DE6-AA7C-8028C95A942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6278D0F6-CCE5-4DE6-AA7C-8028C95A942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6278D0F6-CCE5-4DE6-AA7C-8028C95A942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6278D0F6-CCE5-4DE6-AA7C-8028C95A942E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36DF1238-8F11-46C0-85B2-35CE7A7A0EA4}
+	EndGlobalSection
+EndGlobal
